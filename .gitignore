@@ -1,0 +1,8 @@
+scraped_data
+readings
+gui.py
+*.idea
+*.pyc
+*.pdf
+*.swp
+*.csv
